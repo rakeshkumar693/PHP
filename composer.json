@@ -1,0 +1,16 @@
+{
+
+	"repositories": [
+		 {
+			
+			"type": "git",
+            "url": "https://github.com/luizmarcus/PHP"
+		  }
+		],
+    "require": {
+        "google/apiclient": "^2.0",
+         "videlalvaro/master": "2.2.*",
+        "massivescale/PHP": "dev-master"
+    }
+
+}
